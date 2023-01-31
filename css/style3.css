@@ -152,7 +152,7 @@ img.company {
     text-align: left;
     font: normal normal normal 16px/21px Roboto;
     letter-spacing: 0px;
-    color: #C8242F;
+    color: #3E3E3E;
     opacity: 1;
 
 }
@@ -781,8 +781,131 @@ img.company {
     border: 1px solid #00B9E1;
     border-radius: 5px;
     opacity: 1;
+    margin-top: 15px;
     margin-left: 20px;
 }
-.rt{
+
+.rt {
     display: flex;
 }
+
+.er4 {
+    margin-left: 16px;
+    margin-top: 8px;
+    font: normal normal normal 18px/24px Roboto;
+    color: #00B9E1;
+}
+
+.er7 {
+    display: flex;
+    top: 1456px;
+    left: 321px;
+    width: 550px;
+    height: 44px;
+    /* UI Properties */
+    border: 1px solid #FFA800;
+    border-radius: 5px;
+    opacity: 1;
+    margin-top: 25px;
+    margin-left: 109px;
+}
+
+.er8 {
+    display: flex;
+    width: 550px;
+    height: 44px;
+    /* UI Properties */
+    border: 1px solid #00AF27;
+    border-radius: 5px;
+    opacity: 1;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+
+.er9 {
+    margin-left: 16px;
+    margin-top: 8px;
+    font: normal normal normal 18px/24px Roboto;
+    color: #FFA800;
+}
+
+.er11 {
+    margin-left: 16px;
+    margin-top: 8px;
+    font: normal normal normal 18px/24px Roboto;
+    color: #00AF27;
+}
+
+.yu11 {
+    margin-top: 35px;
+    margin-left: 109px;
+    left: 321px;
+    width: 106px;
+    height: 24px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 18px/24px Roboto;
+    letter-spacing: 0px;
+    color: #100b0b;
+    opacity: 1;
+}
+
+.primary {
+    margin-top: 16px;
+    margin-left: 109px;
+    width: 124px;
+    height: 45px;
+    /* UI Properties */
+    background: #C8242F 0% 0% no-repeat padding-box;
+    border-radius: 23px;
+    opacity: 1;
+    font: normal normal normal 18px/24px Roboto;
+    color: #FFFFFF;
+}
+
+.secondary {
+    margin-top: 16px;
+    margin-left: 21px;
+    width: 145px;
+    height: 44px;
+    /* UI Properties */
+    border: 1px solid #C8242F;
+    border-radius: 22px;
+    opacity: 1;
+    font: normal normal normal 18px/24px Roboto;
+    color: #C8242F;
+}
+
+.tab {
+    padding-left: 12px;
+}
+
+.fd>p {
+   font: normal normal normal 15px/24px Roboto;
+   margin-top: 40px;
+   margin-left: 109px;
+}
+
+.bt2 {
+    margin-top: 22px;
+    margin-left: 36px;
+    width: 37px;
+    height: 20px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #ADADAD;
+    opacity: 1;
+    
+}
+.bt{
+    margin-top: 22px;
+    margin-left: 114px;
+    font: normal normal normal 15px/20px Roboto;
+    color: #C8242F;
+    border-bottom: 1px solid #C8242F;
+    margin-left: 109px;
+    padding-bottom: 10px;
+}
+

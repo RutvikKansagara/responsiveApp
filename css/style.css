@@ -146,4 +146,12 @@ span.forget {
 .gh>span>p {
     padding-left: 30px;
 }
-
+@media (max-width: 360px) {
+    .main {
+      display: flex;
+      flex-direction: column;
+    }
+    
+    
+    
+  }
